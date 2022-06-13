@@ -13,12 +13,8 @@ The application will be invoked by using the following command:
 
 ## Demonstration
 
-*Example of the generated index.html:
-![generatedindex.html](./img/generated-Index.png)
-
-
-*Tests result (run "npm run test"):
-https://drive.google.com/file/d/1-p_UkAYyS_AG_NuPoDkTapKMOntdLaZ5/view
+*Example of the page:
+![noteTakerExample](./public/assets/img/example.png)
 
 ## Credits
 Module 11 lesson 1-4
