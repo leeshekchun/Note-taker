@@ -8,8 +8,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Installation
 The application will be invoked by using the following command:
 1. npm install express --save
-2. npm i uuid (unique ID generator)
-3. npm start (start server)
+2. npm start (start server)
 
 ## Demonstration
 
